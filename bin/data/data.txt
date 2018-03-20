@@ -1,0 +1,32 @@
+0:보더콜리:BorderCollie.jpg
+1:차우차우:Chowchow.jpg
+2:코카 스파니엘:CockerSpaniel.jpg
+3:도베르만:Dobermann.jpg
+4:핏불테리어:PitBullTerrier.jpg
+5:허스키:SiberianHusky.jpg
+6:골든 리트리버:GoldenRetriever.jpg
+7:닥스훈트:Dachshund.jpg
+8:달마시안:Dalmatian.jpg
+9:말라뮤트:Malamute.jpg
+10:말티즈:Maltese.jpg
+11:미니핀:MiniaturePinscher.jpg
+12:비글:Beagle.jpg
+13:비숑 프리제:BichonFrise.jpg
+14:사모예드:Samoyed.jpg
+15:셰퍼드:Shepherd.jpg
+16:슈나우저:Schnauzer.jpg
+17:스피츠:Spitz.jpg
+18:시바견:Shiba.jpg
+19:시츄:ShihTzu.jpg
+20:요크셔 테리어:YorkshireTerrier.jpg
+21:웰시코기:WelshCorgi.jpg
+22:장모 치와와:Chihuahua.jpg
+23:진돗개:JindoDog.jpg
+24:파피용:Papillon.jpg
+25:퍼그:Pug.jpg
+26:페키니즈:Pekingese.jpg
+27:포메라니안:Pomeranian.jpg
+28:폭스테리어:FoxTerrier.jpg
+29:푸들:Poodle.jpg
+30:풍산개:PoongsanDog.jpg
+31:프렌치 불독:FrenchBulldog.jpg
